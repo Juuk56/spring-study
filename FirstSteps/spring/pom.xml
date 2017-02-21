@@ -64,7 +64,7 @@
                         <manifest>
                             <addClasspath>true</addClasspath>
                             <classpathPrefix>lib/</classpathPrefix>
-                            <mainClass>ru.otr.base64.Base64Decoder</mainClass>
+                            <mainClass>ru.otr.springtest.HelloWorldSpringDI</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
